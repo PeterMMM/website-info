@@ -1,0 +1,19 @@
+{
+    "name": "peter/website-info",
+    "description": "Get wesbite domain information usefully.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Peter\\WebsiteInfo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PeterMMM",
+            "email": "minmg.peter@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^8.14"
+    }
+}
